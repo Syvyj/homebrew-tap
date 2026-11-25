@@ -1,6 +1,6 @@
 cask "shotleaf" do
-  version "0.4.0"
-  sha256 "5574088381c482310910c6e6243304992a3f574b86459f4dffa4fcb1a356ae96"
+  version "0.5.0"
+  sha256 "e2b05b0f46e69861359bf8988a8ba9ce92e1c6690d142d793c9ecb2e94803e7d"
 
   url "https://github.com/Syvyj/shotleaf/releases/download/v#{version}/Shotleaf.dmg"
   name "Shotleaf"
